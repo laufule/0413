@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-    argc argv*;
+    void func(argc argv*);
     return 0;
 }
